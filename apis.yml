@@ -1,7 +1,12 @@
 aid: fastenal
-url: https://raw.githubusercontent.com/api-evangelist/fastenal/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/fastenal/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.fastenal.com
+description: >-
+  Fastenal is a leading distributor of industrial and construction supplies, offering
+  fasteners, tools, safety equipment, and other industrial products through stores,
+  vending, and e-commerce.
