@@ -1,33 +1,34 @@
 # Fastenal (fastenal)
-Fastenal is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Fastenal.
+Fastenal is a leading distributor of industrial and construction supplies, offering fasteners, tools, safety equipment, and other industrial products through stores, vending, and e-commerce. Fastenal provides EDI integrations and supply chain programs like FAST 360, FASTBin, and FASTStock to enterprise customers, but no publicly documented API specifications are available.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/fastenal/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+- **Type:** Index
 
-## Tags:
+## Tags
 
- - Fortune 500
+- Construction, Distribution, EDI, Fortune 500, Industrial, MRO, Supply Chain, Vending
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No public APIs have been documented yet. Contributions welcome.
+No publicly documented APIs. Fastenal offers enterprise EDI integrations and supply chain programs (FAST 360, FASTBin, FASTStock); contact Fastenal for integration arrangements.
 
 ## Common Properties
 
 - [Website](https://www.fastenal.com)
+- [About](https://www.fastenal.com/about)
+- [Investor Relations](https://investor.fastenal.com)
+- [Supply Chain Solutions](https://www.fastenal.com/customer-solutions/supply-chain)
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
