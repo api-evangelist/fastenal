@@ -23,6 +23,8 @@ tags:
   - Vending
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/fastenal
   - type: Website
     url: https://www.fastenal.com
   - type: About
