@@ -23,6 +23,8 @@ tags:
   - Vending
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/fastenal-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/fastenal
   - type: Website
