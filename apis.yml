@@ -7,7 +7,18 @@ description: >-
   programs like FAST 360, FASTBin, and FASTStock to enterprise customers, no
   publicly documented API specifications are available.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/fastenal.png
 url: https://raw.githubusercontent.com/api-evangelist/fastenal/refs/heads/main/apis.yml
 created: '2026-03-21'
 modified: '2026-04-28'
