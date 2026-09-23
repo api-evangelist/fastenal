@@ -1,7 +1,9 @@
 ---
 title: 'AI in Supply ChaAIns: Navigating the Future - THE BLUE PRINT'
 url: https://blueprint.fastenal.com/ai-in-supply-chains.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Fastenal" press release artificial intelligence'
 position: 2
 source: serpapi-google

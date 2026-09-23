@@ -1,7 +1,9 @@
 ---
 title: How to Build a Data-Driven Supply Chain - THE BLUE PRINT
 url: https://blueprint.fastenal.com/how-to-build-a-data-driven-supply-chain.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Fastenal" press release artificial intelligence'
 position: 4
 source: serpapi-google

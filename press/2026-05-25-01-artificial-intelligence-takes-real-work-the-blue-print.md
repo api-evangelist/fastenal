@@ -1,7 +1,9 @@
 ---
 title: Artificial Intelligence Takes Real Work - THE BLUE PRINT
 url: https://blueprint.fastenal.com/artificial-intelligence-takes-real-work.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Fastenal" press release artificial intelligence'
 position: 1
 source: serpapi-google
